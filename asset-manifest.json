@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guna_kairaa/static/css/main.4e454d07.css",
+    "main.js": "/guna_kairaa/static/js/main.bee3b4ae.js",
+    "static/media/consultation.svg": "/guna_kairaa/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/web-dev.svg": "/guna_kairaa/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/hosting.svg": "/guna_kairaa/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/guna_kairaa/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/kws.png": "/guna_kairaa/static/media/kws.877da8110793af2c3d27.png",
+    "static/media/Web-developer.svg": "/guna_kairaa/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/footer.svg": "/guna_kairaa/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "static/media/web.svg": "/guna_kairaa/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/guna_kairaa/index.html",
+    "static/media/hero-bg.svg": "/guna_kairaa/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.4e454d07.css.map": "/guna_kairaa/static/css/main.4e454d07.css.map",
+    "main.bee3b4ae.js.map": "/guna_kairaa/static/js/main.bee3b4ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e454d07.css",
+    "static/js/main.bee3b4ae.js"
+  ]
+}
